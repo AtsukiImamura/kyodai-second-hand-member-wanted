@@ -3,6 +3,7 @@
 
 - [プロジェクト概要](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%A6%82%E8%A6%81)
   - [スケジュール感](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#スケジュール感)
+  - [どういうものをつくるか？](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#どういうものをつくるか？)
   - [技術要素](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#技術要素)
   - [開発内容と進み具合](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#開発内容と進み具合)
 - [チームについて](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#チームについて)
