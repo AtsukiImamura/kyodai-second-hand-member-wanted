@@ -1,0 +1,1 @@
+# kyodai-second-hand-member-wanted
