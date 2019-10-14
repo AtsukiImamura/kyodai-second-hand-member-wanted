@@ -37,12 +37,12 @@
   - 画面詳細: TODO
 
 ### 実装
-- サーバーサイド
-  - API
-    -認証: doing
-    -ビジネスロジック: doing
-  - DB: doing
-  - メールサーバ: TODO
-- クライアントサイド
-  - デザイン入れ込み: TODO
-  - APIとデータ処理: doing
+#### サーバーサイド
+- API
+  - 認証: doing
+  - ビジネスロジック: doing
+- DB: doing
+- メールサーバ: TODO
+#### クライアントサイド
+- デザイン入れ込み: TODO
+- APIとデータ処理: doing
