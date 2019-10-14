@@ -39,7 +39,7 @@
 ### 実装
 - サーバーサイド
   - API
-    - 認証: doing
+    -認証: doing
     -ビジネスロジック: doing
   - DB: doing
   - メールサーバ: TODO
