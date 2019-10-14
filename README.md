@@ -1,6 +1,8 @@
 # 京大ツギノテ（仮）メンバー募集
 京大生が不要になったけどまだ使えるものを譲り合えるWebプラットフォーム「京大ツギノテ」（仮）をつくるプロジェクトをやっています！　今、ざっくりと作っていますが、もっと人手が欲しいです…。というわけで、協力してくれる人を募集します！
 
+[メンバー募集チラシ](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/%E4%BA%AC%E5%A4%A7%E3%83%84%E3%82%AE%E3%83%8E%E3%83%86%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E5%8B%9F%E9%9B%86.pdf)
+
 - [プロジェクト概要](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%A6%82%E8%A6%81)
   - [スケジュール感](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#スケジュール感)
   - [どういうものをつくるか？](https://github.com/AtsukiImamura/kyodai-second-hand-member-wanted/blob/master/README.md#どういうものをつくるか？)
